@@ -4,7 +4,7 @@ CAU Computer Vision Machine Learning Lab: Undergraduate Researcher
 
 ### Brief Information
 I'm undergraduate Student studying Computer Vison.  
-I'm in [Prography](http://www.prography.org/) as a deep learning mentor and [CVML](http://cau.ac.kr/~jskwon/), Chung-Ang University as undergraduate Intern. 
+I'm in [CVML](http://cau.ac.kr/~jskwon/), Chung-Ang University as undergraduate Intern. 
   
 
 ### Technologies Used
@@ -28,10 +28,12 @@ I'm in [Prography](http://www.prography.org/) as a deep learning mentor and [CVM
   [style transfer library](https://github.com/wonbeomjang/style-transfer), 
   [implement ESRGAN](https://github.com/wonbeomjang/ESRGAN-pytorch), 
   [implement style transfer using cnn](https://github.com/wonbeomjang/style-transfer)
+
 #### 2018
 - Implementing SegNet based on Mobilenet (Hair Dyeing Application)   
   [mobile hair segmentation](https://github.com/wonbeomjang/mobile-hair-segmentation-pytorch/)
 - Prography deep learning mentee
 - Admission to [Chung-Ang University](https://cse.cau.ac.kr/eng/main.php), Republic of Korea
+
 ### Contact me
 [jtiger958@gmail.com](mailto:jtiger958@gmail.com)
