@@ -19,7 +19,7 @@ I'm in [CVML](http://cau.ac.kr/~jskwon/), Chung-Ang University as undergraduate 
 
 ### Papers
 #### 2022
-- [Deep-plane sweep generative adversarial network for consistent multi-view depth estimation](https://www.researchgate.net/publication/356270771_Deep-plane_sweep_generative_adversarial_network_for_consistent_multi-view_depth_estimation) 2nd author
+- [Deep-plane sweep generative adversarial network for consistent multi-view depth estimation](https://link.springer.com/content/pdf/10.1007/s00138-021-01258-7.pdf) 2nd author
 
 ### Software Project
 - [Canary: A Military Security Alert System for All](https://github.com/wonbeomjang/AI_APP_WEB_Canary_Canary) [2021 Soldier Online Hackathon: Chief of Naval Staff Award] Implementation of [yolov5-knowledge-distillation](https://github.com/wonbeomjang/yolov5-knowledge-distillation) / [demo link](https://www.youtube.com/watch?v=CEl0E3Al_IY)
