@@ -17,7 +17,7 @@ I'm in [CVML](http://cau.ac.kr/~jskwon/), Chung-Ang University as undergraduate 
 - Computer Vision
 - On-device AI (quantization, pruning, knowledge distillation...)
 
-### ㅁctivity
+### Activity
 
 #### 2022
 - [Deep-plane sweep generative adversarial network for consistent multi-view depth estimation](https://link.springer.com/content/pdf/10.1007/s00138-021-01258-7.pdf) 2nd author
