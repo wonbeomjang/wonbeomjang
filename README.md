@@ -1,6 +1,6 @@
-CAU Computer Vision Machine Learning Lab: Undergraduate Researcher  
-[CV-Korean](/assets/cv/cv_kor.pdf)  
-[CV-English](/assets/cv/cv_eng.pdf)  
+<p align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=wonbeomjang'>
+</p>
 
 ### Brief Information
 Hi there 🖐  
