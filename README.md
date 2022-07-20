@@ -1,7 +1,6 @@
 
 <p align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=wonbeomjang' height=150>
-  <img src='https://mazassumnida.wtf/api/v2/generate_badge?boj=jtiger958' height=150>
 </p>
 
 ### Brief Information
