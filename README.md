@@ -23,7 +23,7 @@ Computer science and engineering, Chung-Ang University (GPA: 4.45/4.5)
 
 ### Develop
 2021
-- Canary: Image mosaic for military [link](github.com/wonbeomjang/AI_APP_WEB_Canary_Canary_2021, yolov5-knowledge-distillation)
+- Canary: Image mosaic for military [AI_APP_WEB_Canary_Canary_2021](github.com/wonbeomjang/AI_APP_WEB_Canary_Canary_2021), [yolov5-knowledge-distillation](github.com/wonbeomjang/yolov5-knowledge-distillation)
   - Proceed with knowledge distillation in yolov5
   - Analyze problems of model and data, and improve performance over 14.9%p
   - Building an administrator server for log collection and deployment of the latest models
