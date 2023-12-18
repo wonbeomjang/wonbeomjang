@@ -1,15 +1,23 @@
 ## Hi, There
-<div align="center">
-<h1>Wonbeom Jang</h1>
+## Wonbeom Jang
+    
 <div align="center">
 
 [![WonbeomJang's github stats](https://github-readme-stats.vercel.app/api?username=wonbeomjang&show_icons=true&hide_border=true)](https://github.com/wonbeomjang)
+
+</div>
+<div align="center">
+
 [![solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jtiger958)](https://solved.ac/profile/jtiger958)
 
 </div>
 
+<div align="center">
+    
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wonbeom-jang-a94131192/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonbeomjang%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonbeomjang%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 <!--[![Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white)](https://velog.io/@ally3k)-->
 
