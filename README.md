@@ -22,15 +22,15 @@
 <!--[![Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white)](https://velog.io/@ally3k)-->
 
 ### 💻 Work Experience
-| Role                              |                 Company                  |              Period |
-|:----------------------------------|:----------------------------------------:|--------------------:|
-| ML/DL Engineer                    | [SK Telecom](https://www.sktelecom.com/) |          2024.01. ~ |
-| Deep Learning Researcher (Intern) | [Neurocle](https://www.neuro-cle.com/)   | 2023.01. ~ 2023.08. |
+|               Role                |                 Company                  |        Period        |
+|:---------------------------------:|:----------------------------------------:|:--------------------:|
+|          ML/DL Engineer           | [SK Telecom](https://www.sktelecom.com/) |      2023.07. ~      |
+| Deep Learning Researcher (Intern) | [Neurocle](https://www.neuro-cle.com/)   | 2023.01. ~ 2023.08.  |
 
 ### 🔬 Research Experience
-| Role                      |                                                       Company                                                        |              Period |
-|:--------------------------|:--------------------------------------------------------------------------------------------------------------------:|--------------------:|
-| Undergraduate Researcher  | [Computer Vision Machine Learning Lab. <br />(Advisor. Prof. Junseok Kwon)](https://sites.google.com/view/cau-cvml/) | 2019.08. ~ 2020.08. | 
+|           Role            |                                                       Company                                                        |        Period        |
+|:-------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:--------------------:|
+| Undergraduate Researcher  | [Computer Vision Machine Learning Lab. <br />(Advisor. Prof. Junseok Kwon)](https://sites.google.com/view/cau-cvml/) | 2019.08. ~ 2020.08.  | 
 
 ### 📄 Paper
 - [Deep-plane sweep generative adversarial network for consistent multi-view depth estimation, Machine Vision and Applications, 2022, Dong Wook Shu, Wonbeom Jang, Heebin Yoo, and Hong-Chang Shin, Junseok Kwon](https://link.springer.com/article/10.1007/s00138-021-01258-7)
