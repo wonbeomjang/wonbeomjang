@@ -1,6 +1,6 @@
-## Hi, There
-## Wonbeom Jang
-    
+## Hi, There 👋
+# Wonbeom Jang
+
 <div align="center">
 
 [![WonbeomJang's github stats](https://github-readme-stats.vercel.app/api?username=wonbeomjang&show_icons=true&hide_border=true)](https://github.com/wonbeomjang)
@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-    
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wonbeom-jang-a94131192/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonbeomjang%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -32,10 +32,10 @@
 |:--------------------------|:--------------------------------------------------------------------------------------------------------------------:|--------------------:|
 | Undergraduate Researcher  | [Computer Vision Machine Learning Lab. <br />(Advisor. Prof. Junseok Kwon)](https://sites.google.com/view/cau-cvml/) | 2019.08. ~ 2020.08. | 
 
-## Paper
+### 📄 Paper
 - [Deep-plane sweep generative adversarial network for consistent multi-view depth estimation, Machine Vision and Applications, 2022, Dong Wook Shu, Wonbeom Jang, Heebin Yoo, and Hong-Chang Shin, Junseok Kwon](https://link.springer.com/article/10.1007/s00138-021-01258-7)
 
-## ⚒ Tech Skill
+### 🛠️ Tech Skill
 | Classification      | Skills                                                                                                                                                                                                                                                                                                                                    |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Machine Learning    | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white) |
@@ -52,8 +52,8 @@
 ### 🎓 Education
 - Bachelor of Engineering in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), [Chung-Ang University](https://www.cau.ac.kr/index.do) 2018. 03. ~ 2024.02.
     - **GPA** : 4.41/4.5
-  
-## 📝 Toy Project
+
+## 🚂 Toy Project
 2021
 - Canary: Image mosaic for military [AI_APP_WEB_Canary_Canary_2021](github.com/wonbeomjang/AI_APP_WEB_Canary_Canary_2021), [yolov5-knowledge-distillation](github.com/wonbeomjang/yolov5-knowledge-distillation)
     - Proceed with knowledge distillation in yolov5
@@ -80,5 +80,5 @@
     - Improve IOU 0.73%p, reduce interference time 42.9% and model size 56%
     - This project receives 102 stars at github
 
-### Contact me
+### 📧 Contact me
 [jtiger958@gmail.com](mailto:jtiger958@gmail.com)
