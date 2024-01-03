@@ -24,7 +24,7 @@
 ### 💻 Work Experience
 |               Role                |                 Company                  |        Period        |
 |:---------------------------------:|:----------------------------------------:|:--------------------:|
-|          ML/DL Engineer           | [SK Telecom](https://www.sktelecom.com/) |      2023.07. ~      |
+|          ML/DL Engineer           | [SK Telecom](https://www.sktelecom.com/) |      2024.01. ~      |
 | Deep Learning Researcher (Intern) | [Neurocle](https://www.neuro-cle.com/)   | 2023.01. ~ 2023.08.  |
 
 ### 🔬 Research Experience
